@@ -1,4 +1,4 @@
-# 📂 Folder Analyzer
+# 📂 Folder Spy
 
 A simple Python script to analyze the contents of a folder.  
 It counts the number of files and folders, and shows the largest and smallest file by size.
