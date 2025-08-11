@@ -20,11 +20,12 @@ It counts the number of files and folders, and shows the largest and smallest fi
 ---
 
 ## 📌 Example Output
-✅ Please enter the path of a folder: C:\Users\Test\Documents
-🗃️  Files: 12, 📁 Folders: 5
-1️⃣  Largest file: report.pdf - 12.45 MB
-2️⃣  Smallest file: notes.txt - 0.01 MB
+- ✅ Please enter the path of a folder: C:\Users\Test\Documents
+- 🗃️  Files: 12, 📁 Folders: 5
+- 1️⃣  Largest file: report.pdf - 12.45 MB
+- 2️⃣  Smallest file: notes.txt - 0.01 MB
 
 ---
 
-Thanks for checking out my project! 🩵"# FolderSpy" 
+Thanks for checking out my project! 🩵
+"# FolderSpy" 
